@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
 	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 
-	<bean id="restaurantBean" class="org.sarindy.CollectioInject.Restaurant">
+	<bean id="restaurantBean" class="CollectioInject.Restaurant">
 		<property name="waitersList">
 			<list>
 				<value>Mr. Mantol</value>
