@@ -10,6 +10,8 @@
 	
 	
 	<!-- @PostConstruct and @PreDestroy in the init method in Restauranr Class -->
+	
+	<bean class="BeanLifeCycle.DemoBeanProcessor"/>
 
 
 
@@ -18,5 +20,7 @@
 
 
 </beans>
+
+
 
 
