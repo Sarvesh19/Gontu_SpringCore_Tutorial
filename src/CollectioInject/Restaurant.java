@@ -1,4 +1,4 @@
-package org.sarindy.CollectioInject;
+package CollectioInject;
 
 import java.util.List;
 

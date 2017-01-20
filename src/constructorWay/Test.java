@@ -1,4 +1,4 @@
-package org.sarindy.constructorWay;
+package constructorWay;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

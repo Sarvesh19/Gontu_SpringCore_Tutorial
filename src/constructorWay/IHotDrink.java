@@ -1,4 +1,4 @@
-package org.sarindy.constructorWay;
+package constructorWay;
 
 public interface IHotDrink {
 	

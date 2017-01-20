@@ -1,4 +1,4 @@
-package org.sarindy.Tu01;
+package Tu01;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

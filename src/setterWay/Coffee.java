@@ -1,4 +1,4 @@
-package org.sarindy.setterWay;
+package setterWay;
 
 public class Coffee implements IHotDrink {
 

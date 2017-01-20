@@ -1,4 +1,4 @@
-package org.sarindy.Tu01;
+package Tu01;
 
 public class Restaurant {
 	
