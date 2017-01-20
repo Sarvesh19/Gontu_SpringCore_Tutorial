@@ -7,6 +7,9 @@
 	<bean id="restaurantBean" class="BeanLifeCycle.Restaurant" init-method="myInit" destroy-method="myDestroy">
 		<property name="myMessage" value="This is welcome Note Message from the configuration file." />
 	</bean>
+	
+	
+	<!-- @PostConstruct and @PreDestroy in the init method in Restauranr Class -->
 
 
 
